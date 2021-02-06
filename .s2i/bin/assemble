@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp ../../oc /usr/bin/
+cp oc /usr/bin/
 
 
