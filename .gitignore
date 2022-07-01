@@ -26,3 +26,6 @@ target/
 .classpath
 .settings/
 .project
+
+/home/ubuntu/develop/openshift/quarkus-getting-started/.odo/env
+.odo/odo-file-index.json
